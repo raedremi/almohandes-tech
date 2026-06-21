@@ -10,9 +10,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://almohandes-tech.vercel.app/categories</loc>
   </url>
+  <url>
+    <loc>https://almohandes-tech.vercel.app/category/1</loc>
+  </url>
 
+  <url>
+    <loc>https://almohandes-tech.vercel.app/category/2</loc>
+  </url>
+
+  <url>
+    <loc>https://almohandes-tech.vercel.app/category/3</loc>
+  </url>
+  <url>
+    <loc>https://almohandes-tech.vercel.app/category/4</loc>
+  </url>
+  <url>
+    <loc>https://almohandes-tech.vercel.app/category/5</loc>
+  </url>
+  <url>
+    <loc>https://almohandes-tech.vercel.app/category/6</loc>
+  </url>
   <url>
     <loc>https://almohandes-tech.vercel.app/contact</loc>
   </url>
+
 
 </urlset>

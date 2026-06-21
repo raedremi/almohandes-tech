@@ -14,7 +14,7 @@ function openLesson(id){
 
 <template>
   <section class="latest">
-    <h2>أحدث الدروس</h2>
+    <h2>الاكثر تحميلاً </h2>
 
     <div class="cards">
       <div class="card" v-for="lesson in lessons.slice(0, 6)" :key="lesson.id">

@@ -36,7 +36,7 @@ const lesson = lessons.find(
 
     <div class="actions">
 
-      <a
+ <a
   v-if="lesson.showVideo"
   :href="lesson.youtube"
   target="_blank"
@@ -99,7 +99,7 @@ const lesson = lessons.find(
   flex-wrap:wrap;
 }
 
-.youtube-btn,
+.video-btn,
 .download-btn{
   text-decoration:none;
 
@@ -112,7 +112,7 @@ const lesson = lessons.find(
   font-weight:bold;
 }
 
-.youtube-btn{
+.video-btn{
   background:#dc2626;
 }
 

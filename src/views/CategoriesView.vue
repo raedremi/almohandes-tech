@@ -30,7 +30,13 @@ function openCategory(id){
       ? '💻'
       : category.id === 2
       ? '📊'
-      : '🛠️'
+      : category.id === 3
+      ? '🛠️'
+      : category.id === 4
+      ? '💻'
+      : category.id === 5
+      ? '📊'
+      :  '🛠️'
   }}
 </div>
         <h2>

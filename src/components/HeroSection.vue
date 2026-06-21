@@ -4,11 +4,9 @@
     <div class="overlay">
 
       <h1>
-المهندس التقني
+المهندس التقني للمعلوماتية
 </h1>
-<p>
-   .
-</p>
+
 
 <p>
 شروحات تقنية وبرامج كمبيوتر وبرامج محاسبية ودعم فني للمستخدم العربي
@@ -22,7 +20,7 @@
 
 <style scoped>
 .hero{
-  height:600px;
+  height:500px;
 
   background-image:
   linear-gradient(
@@ -49,9 +47,9 @@
 
 .overlay h1{
   color:white;
-  font-size:72px;
+  font-size:40px;
   font-weight:800;
-  margin-bottom:20px;
+  margin-bottom:50px;
 }
 
 .overlay p{

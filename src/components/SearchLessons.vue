@@ -26,7 +26,7 @@ function openLesson(id){
 
     <input
       v-model="search"
-      placeholder="ابحث عن درس..."
+      placeholder="ابحث عن برنامج..."
     />
 
     <div

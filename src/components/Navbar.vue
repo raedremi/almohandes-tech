@@ -10,7 +10,7 @@ function openCategory(id){
 
 <template>
   <nav class="navbar">
-    <div class="logo">⚙️ المهندس التقني</div>
+    <div class="logo">⚙️المهندس التقني للمعلوماتية</div>
 
     <ul class="menu">
 
@@ -22,7 +22,7 @@ function openCategory(id){
 </li>
 
   <li @click="openCategory(1)">
-    برامج كمبيوتر
+    برامج الطابعات
   </li>
 
   <li @click="openCategory(2)">
@@ -30,7 +30,16 @@ function openCategory(id){
   </li>
 
   <li @click="openCategory(3)">
-    دعم فني
+     برامج الدعم الفني
+  </li>
+   <li @click="openCategory(4)">
+     برامج الكمبيوتر 
+  </li>
+    <li @click="openCategory(5)">
+     شرح برنامج كرستال 
+  </li>
+   <li @click="openCategory(6)">
+     شرح برنامج رصيد  
   </li>
   <li @click="router.push('/about')">
   من نحن
@@ -58,7 +67,7 @@ function openCategory(id){
 }
 
 .logo{
-  font-size:28px;
+  font-size:25px;
   font-weight:800;
 }
 
@@ -75,7 +84,7 @@ function openCategory(id){
 .menu li{
   cursor:pointer;
 
-  font-size:17px;
+  font-size:14px;
   font-weight:600;
 
   transition:.3s;

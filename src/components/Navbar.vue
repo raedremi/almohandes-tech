@@ -41,9 +41,7 @@ function openCategory(id){
    <li @click="openCategory(6)">
      شرح برنامج رصيد  
   </li>
-  <li @click="router.push('/about')">
-  من نحن
-</li>
+
 <li @click="router.push('/contact')">
   تواصل معنا
 </li>

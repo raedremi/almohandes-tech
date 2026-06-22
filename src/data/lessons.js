@@ -273,4 +273,15 @@ export const lessons = [
     download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
     showVideo: true,
   },
+  {
+    id: 23,
+    title: "أداة الربط الشبكي MariaDB",
+    categoryId: 2,
+    shortDescription: "تحميل وتثبيت أداة الربط الشبكي MariaDB",
+    details: " تحميل وتثبيت أداة الربط الشبكي MariaDB  على الكمبيوتر.",
+    image: "/images/MariaDB.jpg",
+    youtube: "https://youtube.com",
+    download: "https://hpc-tech.com/shared/tools/MariaDB.zip",
+    showVideo: false,
+  },
 ];

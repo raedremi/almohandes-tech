@@ -17,7 +17,7 @@ function openLesson(id){
     <h2>الاكثر تحميلاً </h2>
 
     <div class="cards">
-      <div class="card" v-for="lesson in lessons.slice(0, 6)" :key="lesson.id">
+      <div class="card" v-for="lesson in lessons.slice(6, 22)" :key="lesson.id">
         <img :src="lesson.image" :alt="lesson.title" />
 
         <h3>

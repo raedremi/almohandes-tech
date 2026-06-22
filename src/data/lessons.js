@@ -260,4 +260,17 @@ export const lessons = [
       "https://drive.usercontent.google.com/download?id=1wPPYOAEazO2nU7qPJ573fKvNAUjjg_WM&export=download&authuser=0&confirm=t&uuid=deb3d192-706b-4238-8d8e-745154475aa2&at=AAINaIKZSWaobTBrNwn57ahwz_j9%3A1781992193400",
     showVideo: true,
   },
+  {
+    id: 22,
+    title: "ادخال الجرد الاولي في برنامج كريستال ",
+    categoryId: 5,
+    shortDescription:
+      "ادخال الجرد الاولي في برنامج كريستال للمحاسبة والمستودعات ",
+    details:
+      " في هذا الفيديو شرح مفصل كيفية ادخال بضاعة اول المدة في برنامج كريستال بعد أن تم تعريف المواد والفئات وسنمر سريعا على طريقة التعامل مع الوحدات والباركود البديل في برنامج كريستال.هذا الفيديو مهم لمستخدمي محلات المواد الغذائية بكافة أشكالها  ",
+    image: "/images/Inputstorefirst.jpg",
+    youtube: "https://youtu.be/5IzYifYVSaQ?si=hPt7QR4bzwz6vU5Q",
+    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    showVideo: true,
+  },
 ];

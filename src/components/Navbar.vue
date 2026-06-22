@@ -65,7 +65,7 @@ function openCategory(id){
 }
 
 .logo{
-  font-size:25px;
+  font-size:23px;
   font-weight:800;
 }
 

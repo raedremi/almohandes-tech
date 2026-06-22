@@ -47,7 +47,7 @@
 
 .overlay h1{
   color:white;
-  font-size:40px;
+  font-size:35px;
   font-weight:800;
   margin-bottom:50px;
 }

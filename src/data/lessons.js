@@ -284,4 +284,16 @@ export const lessons = [
     download: "https://hpc-tech.com/shared/tools/MariaDB.zip",
     showVideo: false,
   },
+  {
+    id: 22,
+    title: "مراكز التكلفة في برنامج كريستال",
+    categoryId: 5,
+    shortDescription: "مراكز التكلفة في برنامج كريستال",
+    details:
+      "إدارة الورشات إدارة المشاريع للمقاولات لإدارة التسويق وخدمة الزبائن الدقة في حساب التكاليف اختصار الوقت والجهد لحساب تكاليف المشروع، وأرباحه.",
+    image: "/images/Cost.jpg",
+    youtube: "https://youtu.be/5IzYifYVSaQ?si=hPt7QR4bzwz6vU5Q",
+    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    showVideo: true,
+  },
 ];

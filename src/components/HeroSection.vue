@@ -3,14 +3,14 @@
 
     <div class="overlay">
 
-      <h1>
+      <!-- <h1>
 المهندس التقني للمعلوماتية
 </h1>
 
 
 <p>
 شروحات تقنية وبرامج كمبيوتر وبرامج محاسبية ودعم فني للمستخدم العربي
-</p>
+</p> -->
 
  
     </div>
@@ -23,10 +23,10 @@
   height:500px;
 
   background-image:
-  linear-gradient(
+  /* linear-gradient(
     rgba(15,23,42,.75),
     rgba(15,23,42,.75)
-  ),
+  ), */
   url('/images/hero.jpg');
 
   background-size:cover;

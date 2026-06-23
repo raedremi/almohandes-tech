@@ -72,7 +72,8 @@ export const lessons = [
     image: "/images/UltraViewer.jpg",
     youtube:
       "https://www.mediafire.com/file/f7xrm3gczzc6078/UltraViewer_setup_6.6.124_en.exe/file",
-    download: "#",
+    download:
+      "https://www.mediafire.com/file/f7xrm3gczzc6078/UltraViewer_setup_6.6.124_en.exe/file",
     showVideo: false,
   },
 

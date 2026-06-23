@@ -70,7 +70,8 @@ export const lessons = [
     shortDescription: " برنامج التحكم عن بعد UltraViewer.",
     details: " تثبيت واستخدام برنامج UltraViewer للتحكم عن بعد.",
     image: "/images/UltraViewer.jpg",
-    youtube: "https://dl2.ultraviewer.net/UltraViewer_setup_6.6_en.exe",
+    youtube:
+      "https://www.mediafire.com/file/f7xrm3gczzc6078/UltraViewer_setup_6.6.124_en.exe/file",
     download: "#",
     showVideo: false,
   },
@@ -292,7 +293,7 @@ export const lessons = [
     details:
       "إدارة الورشات إدارة المشاريع للمقاولات لإدارة التسويق وخدمة الزبائن الدقة في حساب التكاليف اختصار الوقت والجهد لحساب تكاليف المشروع، وأرباحه.",
     image: "/images/Cost.jpg",
-    youtube: "https://youtu.be/5IzYifYVSaQ?si=hPt7QR4bzwz6vU5Q",
+    youtube: "https://youtu.be/rCxmxNvY6no?si=HqqLoe_OVfQUMqaQ",
     download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
     showVideo: true,
   },

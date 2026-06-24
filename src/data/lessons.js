@@ -47,7 +47,7 @@ export const lessons = [
     details: "  تثبيت واستخدام برنامج AnyDesk.",
     image: "/images/Anydesk.jpg",
     youtube: "https://youtube.com",
-    download: "https://download.anydesk.com/AnyDesk.exe",
+    download: "https://www.mediafire.com/file/qq408n23jd18zn1/AnyDesk.exe/file",
     showVideo: false,
   },
 
@@ -60,7 +60,7 @@ export const lessons = [
     image: "/images/TeamViewer.jpg",
     youtube: "https://youtube.com",
     download:
-      "https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe?_gl=1*l6tdr4*_gcl_au*ODk2NTU3MTkzLjE3ODE5MDgyMzk.&ref=https%3A%2F%2Fwww.teamviewer.com%2Fen-mea%2Fdownload%2Fwindows%2F",
+      "https://www.mediafire.com/file/wbewbg26d1vd5xt/TeamViewer_Setup_x64_%25281%2529.exe/file",
     showVideo: false,
   },
   {
@@ -158,7 +158,7 @@ export const lessons = [
     image: "/images/winrar.jpg",
     youtube: "https://youtube.com",
     download:
-      "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-722.exe",
+      "https://www.mediafire.com/file/unk9q6yno05kadz/winrar-x64-722_%25281%2529.exe/file",
     showVideo: false,
   },
   {
@@ -181,8 +181,7 @@ export const lessons = [
     details: " تحميل وتثبيت برنامج Google Chrome على الكمبيوتر.",
     image: "/images/google-chrome.jpg",
     youtube: "https://youtube.com",
-    download:
-      "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B709C541E-74EB-67AE-1EB9-425211FCCA2A%7D%26lang%3Dar%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty%26brand%3DKXLH/update2/installers/ChromeSetup.exe",
+    download: "https://www.google.com/intl/en_uk/chrome/dr/download/",
     showVideo: false,
   },
   {
@@ -194,7 +193,8 @@ export const lessons = [
     details: " إضافة صنف جديد في برنامج كرستال المحاسبي | شرح عملي 📦💻",
     image: "/images/AddItemCrystal.jpg",
     youtube: "https://youtu.be/zYZPivOQb7s?si=0EZClbkl5W-dqVm8",
-    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    download:
+      "https://aldoctorcenter.com/products/crystal/crystal_enterprise2018.zip",
     showVideo: true,
   },
   {
@@ -206,7 +206,8 @@ export const lessons = [
     details: " شرح فاتورة المبيع في برنامج كرستال  | إنشاء فاتورة بيع   🧾💻",
     image: "/images/ExSalesCrystal.jpg",
     youtube: "https://youtu.be/OedoI-Wfe-A?si=Om3gsq_YWYEdu768",
-    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    download:
+      "https://aldoctorcenter.com/products/crystal/crystal_enterprise2018.zip",
     showVideo: true,
   },
   {
@@ -219,7 +220,8 @@ export const lessons = [
       " شرح سند القبض والدفع في برنامج كرستال|  تسجيل واستلام المبالغ المالية 💰📄سند  ",
     image: "/images/ExentryCrystal.jpg",
     youtube: "https://youtu.be/_uyGa4CKpqc?si=-4Ef5-J9ViP4fBtK",
-    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    download:
+      "https://aldoctorcenter.com/products/crystal/crystal_enterprise2018.zip",
     showVideo: true,
   },
   {
@@ -272,7 +274,8 @@ export const lessons = [
       " في هذا الفيديو شرح مفصل كيفية ادخال بضاعة اول المدة في برنامج كريستال بعد أن تم تعريف المواد والفئات وسنمر سريعا على طريقة التعامل مع الوحدات والباركود البديل في برنامج كريستال.هذا الفيديو مهم لمستخدمي محلات المواد الغذائية بكافة أشكالها  ",
     image: "/images/Inputstorefirst.jpg",
     youtube: "https://youtu.be/5IzYifYVSaQ?si=hPt7QR4bzwz6vU5Q",
-    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    download:
+      "https://aldoctorcenter.com/products/crystal/crystal_enterprise2018.zip",
     showVideo: true,
   },
   {
@@ -295,7 +298,33 @@ export const lessons = [
       "إدارة الورشات إدارة المشاريع للمقاولات لإدارة التسويق وخدمة الزبائن الدقة في حساب التكاليف اختصار الوقت والجهد لحساب تكاليف المشروع، وأرباحه.",
     image: "/images/Cost.jpg",
     youtube: "https://youtu.be/rCxmxNvY6no?si=HqqLoe_OVfQUMqaQ",
-    download: "https://aldoctorcenter.com/products/crystal/MySQL2020.rar",
+    download:
+      "https://aldoctorcenter.com/products/crystal/crystal_enterprise2018.zip",
+    showVideo: true,
+  },
+  {
+    id: 23,
+    title: "برنامج  Rdmin Vpn",
+    categoryId: 4,
+    shortDescription: " تحميل وتثبيت برنامج Rdmin Vpn",
+    details: " تحميل وتثبيت برنامج Rdmin Vpn على الكمبيوتر.",
+    image: "/images/RdMinvpn.jpg",
+    youtube: "https://youtube.com",
+    download:
+      "https://www.mediafire.com/file/8vplh043udofjn4/Radmin_VPN_2.0.4899.9+(1).exe/file",
+    showVideo: false,
+  },
+  {
+    id: 24,
+    title: "نقطة البيع*برنامج كريستال",
+    categoryId: 5,
+    shortDescription:
+      "طريقة التعامل مع فاتورة الكاش او نقطة البيع في برنامج كريستال",
+    details: "طريقة التعامل مع فاتورة الكاش او نقطة البيع في برنامج كريستال",
+    image: "/images/cashCrystal.jpg",
+    youtube: "https://youtu.be/i-brDYemV_Q?si=roYafqzPSTFYkX-F",
+    download:
+      "https://aldoctorcenter.com/products/crystal/crystal_enterprise2018.zip",
     showVideo: true,
   },
 ];

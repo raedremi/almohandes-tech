@@ -135,7 +135,7 @@ export const lessons = [
     image: "/images/updateR.jpg",
     youtube: "https://youtube.com",
     download:
-      "https://drive.usercontent.google.com/download?id=1v7fxRwTYgRWuk43NGYdRKWii0H3weJoL&export=download&authuser=0&confirm=t&uuid=ff1e1a97-db96-42c5-beb0-133a45770895&at=AAINaIKfB4z8K_oozfPe-BmrIRfr:1781992998371",
+      "https://drive.google.com/file/d/19hjQ7MdgwwFBPLw13V9SmwyUWTcZDjc3/view?usp=drive_link",
     showVideo: false,
   },
   {
